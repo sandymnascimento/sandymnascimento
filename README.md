@@ -1,4 +1,4 @@
-### Olá, meu nome é Sandy Nascimento e aqui esta armazenado todo o meu processo de aprendizagem.
+### Olá, meu nome é Sandy Nascimento!
 
 ##
 
