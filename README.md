@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72EB6&size=25&center=true&vCenter=true&height=70&lines=%3C+Hello%2C+word!+%2F%3E;%3C+My+name+is+Sandy+Nascimento.+%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72EB6&size=25&center=true&vCenter=true&lines=%3C+Hello%2C+word!+%2F%3E;%3C+My+name+is+Sandy+Nascimento.+%2F%3E)](https://git.io/typing-svg)
 ##
-
 <div>
   <a href="https://github.com/sandymnascimento">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=sandymnascimento&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
