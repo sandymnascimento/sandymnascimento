@@ -1,5 +1,4 @@
-### Olá, meu nome é Sandy Nascimento!
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B03BF7&size=25&center=true&multiline=true&height=70&lines=%3C+Hello%2C+word!+%2F%3E;%3C+My+name+is+Sandy+Nascimento+%2F%3E)](https://git.io/typing-svg)
 ##
 
 <div>
