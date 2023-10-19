@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mohave&weight=900&size=25&duration=2000&pause=1000&color=F72EB6B6&center=true&vCenter=true&random=false&width=435&lines=%3C+Hello%2C+word!+%2F%3E;My+name+is+Sandy+Nascimento.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mohave&weight=900&size=25&duration=2000&pause=1000&color=F74CB2&center=true&vCenter=true&random=false&width=435&lines=%3C+Hello%2C+word!+%2F%3E;My+name+is+Sandy+Nascimento.)](https://git.io/typing-svg)
 ##
 <div>
   <a href="https://github.com/sandymnascimento">
